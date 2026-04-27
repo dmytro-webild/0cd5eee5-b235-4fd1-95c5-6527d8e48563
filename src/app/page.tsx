@@ -237,7 +237,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/modern-architectural-marvel-night_23-2152006102.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777326465238-1mxhovzk.png"
       logoText="SolarTec"
       columns={[
         {
