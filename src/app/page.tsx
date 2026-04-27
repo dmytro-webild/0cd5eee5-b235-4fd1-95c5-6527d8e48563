@@ -95,7 +95,7 @@ export default function LandingPage() {
       title="Atendimento Concierge SolarTec"
       description="Do diagnóstico técnico à homologação final, oferecemos um ponto de contato único, garantindo que a sua experiência seja tão impecável quanto o desempenho da sua usina."
       subdescription="Sua residência não é apenas um imóvel, é um patrimônio que merece a mais refinada tecnologia energética do mercado."
-      imageSrc="http://img.b2bpic.net/free-photo/shareholders-reviewing-solar-panel-components-analyzing-material-quality_482257-123381.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777326792016-215mnzmn.jpg"
       mediaAnimation="slide-up"
       icon={Zap}
     />
