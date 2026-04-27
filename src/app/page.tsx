@@ -58,7 +58,7 @@ export default function LandingPage() {
       background={{
         variant: "gradient-bars",
       }}
-      title="S"
+      title="SolarTec"
       description="Tecnologia fotovoltaica de elite com engenharia de precisão. Reduza custos com a sofisticação que seu patrimônio exige."
       buttons={[
         {
