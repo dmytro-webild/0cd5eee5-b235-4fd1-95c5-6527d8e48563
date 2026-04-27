@@ -177,7 +177,7 @@ export default function LandingPage() {
           id: "2",
           name: "Engenharia Personalizada",
           price: "Passo 2",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777325310395-o7hre9cq.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777325288286-p0e8wbql.jpg",
         },
         {
           id: "3",
