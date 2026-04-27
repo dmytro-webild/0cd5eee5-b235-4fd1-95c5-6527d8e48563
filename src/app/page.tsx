@@ -66,7 +66,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/blending-futuristic-building-seamlessly-into-desert-landscape_23-2151248305.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777326025031-w0np4eg3.jpg"
     />
   </div>
 
