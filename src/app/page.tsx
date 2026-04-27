@@ -58,7 +58,7 @@ export default function LandingPage() {
       background={{
         variant: "gradient-bars",
       }}
-      title="A Maestria do Sol a Serviço do Seu Legado."
+      title="S"
       description="Tecnologia fotovoltaica de elite com engenharia de precisão. Reduza custos com a sofisticação que seu patrimônio exige."
       buttons={[
         {
@@ -171,25 +171,25 @@ export default function LandingPage() {
           id: "1",
           name: "Diagnóstico Energético",
           price: "Passo 1",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=td9tey",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777325208842-8hx7vgtx.jpg",
         },
         {
           id: "2",
           name: "Engenharia Personalizada",
           price: "Passo 2",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=y9u45z",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777325310395-o7hre9cq.jpg",
         },
         {
           id: "3",
           name: "Instalação de Elite",
           price: "Passo 3",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=kalyxj",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777325489737-qf9k745h.jpg",
         },
         {
           id: "4",
           name: "Ativação e Suporte",
           price: "Passo 4",
-          imageSrc: "http://img.b2bpic.net/free-photo/chart-statistics-sign-front-side-with-white-background_187299-39803.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CxCir9mpTLw2euOMJPAgmKhsUf/uploaded-1777325489737-o60t8jpz.jpg",
         },
       ]}
       title="Nosso Processo Turn-key"
